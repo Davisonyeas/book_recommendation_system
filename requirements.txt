@@ -1,0 +1,7 @@
+streamlit
+numpy
+scikit-learn
+
+# local packages
+# it will identify and install setup.py
+-e .
